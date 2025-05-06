@@ -55,7 +55,7 @@ cd student-api
 
 mysql -u root  -p < student_records.sql
 
-```
+
 ### 3. Python packages installation
 
 pip install -r requirements.txt
