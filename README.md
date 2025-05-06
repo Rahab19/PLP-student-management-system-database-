@@ -25,16 +25,6 @@ The system consists of four core tables:
 3. `enrollments`
 4. `grades`
 
-## 📂 Project Structure
-
-student-api/
-│
-├── main.py 
-├── models.py 
-├── database.py 
-├── schema.sql 
-└── README.md 
-
 ## 📬 API Endpoints Overview
 
 | Method | Endpoint             | Description             |
@@ -61,12 +51,11 @@ student-api/
 https://github.com/Rahab19/PLP-student-management-system-database-.git
 cd student-api
 
-```bash
 ### Import the database
 
 mysql -u root  -p < student_records.sql
 
-```bash
+```
 ### Python packages installation
 
 pip install -r requirements.txt
