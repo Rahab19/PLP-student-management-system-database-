@@ -53,11 +53,12 @@ cd student-api
 ```
 ### 2. Import the database
 
+```bash
 mysql -u root  -p < student_records.sql
-
+```
 
 ### 3. Python packages installation
 
+```bash
 pip install -r requirements.txt
-
-
+```
