@@ -49,7 +49,6 @@ The system consists of four core tables:
 
 ```bash
 https://github.com/Rahab19/PLP-student-management-system-database-.git
-cd student-api
 ```
 ### 2. Import the database
 
