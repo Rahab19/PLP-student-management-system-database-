@@ -61,11 +61,13 @@ student-api/
 https://github.com/Rahab19/PLP-student-management-system-database-.git
 cd student-api
 
-### 2. Import the database
+```bash
+### Import the database
 
 mysql -u root  -p < student_records.sql
 
-### 3. Python packages installation
+```bash
+### Python packages installation
 
 pip install -r requirements.txt
 
