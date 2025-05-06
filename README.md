@@ -50,13 +50,13 @@ The system consists of four core tables:
 ```bash
 https://github.com/Rahab19/PLP-student-management-system-database-.git
 cd student-api
-
-### Import the database
+```
+### 2. Import the database
 
 mysql -u root  -p < student_records.sql
 
 ```
-### Python packages installation
+### 3. Python packages installation
 
 pip install -r requirements.txt
 
